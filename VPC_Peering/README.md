@@ -1,8 +1,5 @@
 # VPC Peering on AWS
 
-## Introduction
-
-Welcome to the VPC Peering Guide for AWS. This README provides an overview of the steps detailed in [Bridging VPCs: A Practical Guide to VPC Peering in AWS](https://medium.com/@kevinkiruri/creating-a-vpc-peering-connection-on-aws-ff35156e39b9), authored by [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/).
 
 ## Prerequisites
 
@@ -45,4 +42,3 @@ Before establishing VPC Peering connections on AWS, make sure you have an AWS ac
 
 ---
 
-Author: [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/)
